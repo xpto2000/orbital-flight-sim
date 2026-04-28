@@ -1,6 +1,6 @@
 # Orbital Flight Dynamics Simulator
 
-A high-fidelity, browser-based flight telemetry and physics simulator designed to model vehicle ascent profiles through non-linear atmospheric conditions.
+A browser-based flight telemetry and physics simulator designed to model vehicle ascent profiles through non-linear atmospheric conditions.
 
 [**🚀 Launch Live Simulation**](https://xpto2000.github.io/orbital-flight-sim/)
 
