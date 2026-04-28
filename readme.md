@@ -2,7 +2,7 @@
 
 A high-fidelity, browser-based flight telemetry and physics simulator designed to model vehicle ascent profiles through non-linear atmospheric conditions.
 
-[**🚀 Launch Live Simulation**](https://github.io)
+[**🚀 Launch Live Simulation**](https://xpto2000.github.io/orbital-flight-sim/)
 
 ## 🛰️ Overview
 This project serves as a technical demonstration of **real-time data visualization** and **deterministic physics modeling**. It simulates a vertical ascent from pre-flight configuration through ignition, atmospheric transit, and orbital insertion milestones.
